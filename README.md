@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pralay Das</h1>
 <h3 align="center">A passionate Data Science enthusiastic from India</h3>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Deep learning compiler Enginner**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **compiler (MLIR, LLVM)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
