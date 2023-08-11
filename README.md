@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pralay Das</h1>
-<h3 align="center">A passionate Data Science enthusiastic from India</h3>
+<h3 align="center">A passionate AI enthusiastic </h3>
 
 - 🔭 I’m currently working on **Deep learning compiler Enginner**
 
